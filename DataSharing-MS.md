@@ -83,6 +83,8 @@ professional programmers.
 - End the rule of Excel: JSON schemes or XML to represent context-rich data
 - FigShare and other projects: data can have a DOI and be cited/shared
 - Local databases but linked globally: APIs and programmatic access
+- Financially, it's worth the effort. Although sharing data openly online may entail some effort 
+and cost, research has shown that over-time this effort is worth it through the benefits of data re-use [@Piwowar2011]
 
 # How it should be encouraged
 
