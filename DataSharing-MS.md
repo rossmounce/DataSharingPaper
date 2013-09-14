@@ -152,7 +152,7 @@ can be cited independently from their original paper, they will also
 contribute to the overall scientific impact of the researcher who generated
 them, thus allowing to name as authors only those who analyzed the data.
 
-## Data cost money
+## Data costs money
 
 Gathering data, either in the lab or in the field, costs money, as it requires
 the acquisition and maintenance of equipments and reagents, in addition to
